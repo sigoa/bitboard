@@ -1,6 +1,8 @@
 # bitboard
 
-Bitboard is a decentralized anonymous imageboard. It is built on top of Bitmessage's [decentralized mailing lists.](https://bitmessage.org/wiki/Decentralized_Mailing_List)
+Bitboard is a decentralized anonymous imageboard, i.e. a website browseable in firefox which does not need JavaScript and is thus pretty secure.
+
+It is built on top of Bitmessage's [decentralized mailing lists.](https://bitmessage.org/wiki/Decentralized_Mailing_List)
 
 To get started, you must download and setup [Bitmessage](https://bitmessage.org) then [enable API access](https://bitmessage.org/wiki/API_Reference#Enable_the_API). Bitmessage must be running in order for Bitboard to work. 
 
