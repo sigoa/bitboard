@@ -2,6 +2,8 @@
 
 Bitboard is a decentralized anonymous imageboard. It is built on top of Bitmessage's [decentralized mailing lists.](https://bitmessage.org/wiki/Decentralized_Mailing_List)
 
+BM wiki entry on BitBoard: https://github.com/Bitmessage/PyBitmessage/wiki/BM-web-server:-bitboard
+
 To get started, you must download and setup [Bitmessage](https://bitmessage.org) then [enable API access](https://bitmessage.org/wiki/API_Reference#Enable_the_API). Bitmessage must be running in order for Bitboard to work. 
 
 Once you have Bitmessage setup and running, you may download and run bitboard with the following commands.
