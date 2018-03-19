@@ -19,6 +19,14 @@ def getBitmessageEndpoint():
     password = config.getBMConfig("apipassword")
     host = config.getBMConfig("apiinterface")
     port = config.getBMConfig("apiport")
+    
+    # put the literals here if stuff don't work. you need not copy everything (*.py) into the pyBM subdirectory.
+    # after this mod all will work like a charm
+    username = "uuu"            # make it match with the   keys.dat   file   from  pyBM
+    password = "ppp"            # must match  keys.dat   too
+    host = "127.0.0.1"          #
+    port = "8442"               #     
+    
     return "http://"+username+":"+password+"@"+host+":"+port+"/"
 
 
