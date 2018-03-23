@@ -13,5 +13,9 @@ Once you have Bitmessage setup and running, you may download and run bitboard wi
   
 bitboard runs on port 8080 by default, so you should see it running when you visit http://localhost:8080 in your browser. For security purposes, you should probably disable javascript.
 
+In your .bashrc place something like:
+export BITMESSAGE_HOME="/home/YOU/path/to/bitmessage/folder" # but without the "/PyBitmessage/"
+so BB can find it.
+
 
 ![bitboard screenshot](/static/screenshot.png)
